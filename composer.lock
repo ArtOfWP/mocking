@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e58743c3f20bd60f71f198948068abb6",
-    "content-hash": "970ced89ebd7e82e1f51186444d107b4",
+    "hash": "0524375c4ae3020cf69e407c92b9f5b7",
+    "content-hash": "06722bf00bfed6d5faf3e1186ded1528",
     "packages": [
         {
             "name": "hamcrest/hamcrest-php",

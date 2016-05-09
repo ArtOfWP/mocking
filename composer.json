@@ -1,5 +1,5 @@
 {
-  "name": "artofwp/mocking",
+  "name": "artofwp/wp-mocking",
   "description": "Helps with mocking various parts of WordPress Core",
   "minimum-stability": "dev",
   "license": "MIT",
