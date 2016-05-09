@@ -1,5 +1,5 @@
 <?php
-namespace ArtOfWP\WP\Mocking;
+namespace ArtOfWP\Mocking;
 
 class Mock_WP_User {
     private static $IDs=0;

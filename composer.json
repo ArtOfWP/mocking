@@ -1,5 +1,5 @@
 {
-  "name": "ArtOfWP/mocking",
+  "name": "artofwp/mocking",
   "description": "Helps with mocking various parts of WordPress Core",
   "minimum-stability": "dev",
   "license": "MIT",
@@ -9,10 +9,15 @@
       "email": "andreas@artofwp.com"
     }
   ],
-  "require-dev": {
-    "phpunit/phpunit": "4.6"
+  "autoload": {
+    "psr-4": {
+      "ArtOfWP\\Mocking\\": "src/"
+    }
   },
   "require": {
     "Mockery/Mockery": ">=0.7.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.3.x"
   }
 }
