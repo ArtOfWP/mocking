@@ -1,5 +1,5 @@
 <?php
-namespace ArtOfWP\Mocking;
+namespace ArtOfWP\WP\Mocking;
 
 class Mock_WP_Post {
     public static function makeArray($values) {

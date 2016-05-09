@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "ArtOfWP\\Mocking\\": "src/"
+      "ArtOfWP\\WP\\Mocking\\": "src/"
     }
   },
   "require": {
